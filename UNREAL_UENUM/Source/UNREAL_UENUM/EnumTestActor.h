@@ -6,7 +6,8 @@
 #include "GameFramework/Actor.h"
 #include "EnumTestActor.generated.h"
 
-UENUM(BlueprintType)
+// 선언하고자 하는 열거형 선언하기
+UENUM(BlueprintType)	// Blueprint에서도 사용이 가능하게 만든다.
 enum class EMyColor : uint8
 {
 	Red UMETA(DisplayName = "Red"),
@@ -30,7 +31,8 @@ protected:
 public:	
 	// Called every frame
 	virtual void Tick(float DeltaTime) override;
-
+	
+	// Called Enum
 	UPROPERTY(EditAnywhere)
 		EMyColor MyColorTestEnum;
 };
