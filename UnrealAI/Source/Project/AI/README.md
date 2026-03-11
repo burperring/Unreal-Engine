@@ -29,7 +29,7 @@ Unreal AI System과 Behavior Tree를 이용한 NPC 구현
 <img width="880" height="418" alt="Image" src="https://github.com/user-attachments/assets/b229a195-c86a-49cd-840e-6a10cd171d71" />
 
 ### Character 기반 AI 움직임 구현
-![Video Label](http://img.youtube.com/vi/X-sqqreaP1Y/0.jpg)
+[![Video Label](http://img.youtube.com/vi/X-sqqreaP1Y/0.jpg)](https://www.youtube.com/watch?v=X-sqqreaP1Y)
 
 ### Pawn 기반 AI 움직임 구현(귀신 AI - NavMesh Move To와 다른 방식의 움직임)
-![Video Label](http://img.youtube.com/vi/2CcAArDH73s/0.jpg)
+[![Video Label](http://img.youtube.com/vi/2CcAArDH73s/0.jpg)](https://www.youtube.com/watch?v=2CcAArDH73s)
